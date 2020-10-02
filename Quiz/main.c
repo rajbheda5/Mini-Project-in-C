@@ -120,9 +120,9 @@ int main()
   printf("\n\nA.4\tB.2\n\nC.none\tD.infinite\n\n");
   countq++;
   if (toupper(getch())=='A')
-   {printf("\n\nCorrect!!!");countr++; break;}
+   {printf("\n\nCorrect Answer!!!");countr++; break;}
   else
-         printf("\n\nWrong!!! The correct answer is A.4");
+         printf("\n\nWrong Answer!!! The correct answer is A.4");
   break;
 
   case 3:
